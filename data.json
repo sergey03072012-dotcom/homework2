@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "full_name": "Зубенко Михаил Петрович",
+      "birth_date": "1989-12-10",
+      "age": 25,
+      "login": "ivanov",
+      "password": "12345",
+      "status": "active",
+      "phone": "+7999111555"
+    }
+  ],
+  "devices": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "device_type": "Смартфон",
+      "device_name": "Samsung Galaxy S26 Ultra",
+      "characteristics": {
+        "ram": "16GB",
+        "storage": "1000GB"
+      }
+    }
+  ]
+}
